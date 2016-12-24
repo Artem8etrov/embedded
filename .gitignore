@@ -1,1 +1,6 @@
-i
+*.c~
+exe
+linker
+list
+obj
+*.cof
